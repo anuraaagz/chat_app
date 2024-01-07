@@ -1,6 +1,6 @@
 // chatName
 // isGroupChat
-//users
+//users 
 //latestMessage
 //groupAdmin
 
